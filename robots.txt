@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://linguatalks.com/sitemap.xml
+Sitemap: https://www.linguatalks.co.uk/sitemap.xml
